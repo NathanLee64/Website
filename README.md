@@ -1,4 +1,4 @@
-[Hello World.txt](https://github.com/NathanLee64/Website/files/9420277/Hello.World.txt)
+<!--[Hello World.txt](https://github.com/NathanLee64/Website/files/9420277/Hello.World.txt)-->
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/NathanLee64/Website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
